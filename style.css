@@ -1,0 +1,9 @@
+#Div-element{
+    font-size: large;
+padding: 20px;
+margin: 5%;
+border: solid 2px red;
+}
+#Div{
+    border: dotted 2px black;
+}
